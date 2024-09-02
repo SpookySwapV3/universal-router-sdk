@@ -1,3 +1,4 @@
+import { ChainId } from '@uniswap/sdk-core'
 import { BigNumber } from 'ethers'
 
 type ChainConfig = {
@@ -122,6 +123,11 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
     weth: '0x7507c1dc16935B82698e4C63f2746A2fCf994dF8',
     creationBlock: 2189565,
   },
+  [2345]: {
+    router: '',
+    weth: '',
+    creationBlock: 0,
+  }
 }
 
 export const UNIVERSAL_ROUTER_ADDRESS = (chainId: number): string => {
