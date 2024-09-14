@@ -127,6 +127,12 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
     router: '',
     weth: '',
     creationBlock: 0,
+  },
+  // sonic testnet
+  [64165]: {
+    router: '0x4c5657b3c43b23E8C04724A3e3da9Ea05ae0712C',
+    weth: '0xD31686E65f17542C7019B22b2E6A0C71e72aA8Dd',
+    creationBlock: 71918290,
   }
 }
 
