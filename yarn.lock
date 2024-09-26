@@ -2192,7 +2192,7 @@
     ethers "^5.3.1"
     tiny-invariant "^1.3.1"
 
-"@uniswap/router-sdk@^1.6.0":
+"@uniswap/router-sdk@1.6.0":
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/@uniswap/router-sdk/-/router-sdk-1.6.0.tgz#2f51dbba1b01467244b59500ed0da8aa84323f8c"
   integrity sha512-onpAzcvEnrsm8tUtu49IrR9EP3n9j0IDpGc0Ee3FDDkVgXrp9cIrAADC+yb56vgLtJFnshbhyIdjXLMIzWe0Gw==
