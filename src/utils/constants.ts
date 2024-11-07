@@ -123,9 +123,9 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
     creationBlock: 2189565,
   },
   [48815]: {
-    router: '0xa58536246beEB4E68C84caFFC07C87aB5F9f7A16',
+    router: '0x88aD42DB2CA24273a0F24084F04C8c33e7f7cca7',
     weth: '0xc9cB60b2635A1e2518B37Cb632C973e54C5AB3fF',
-    creationBlock: 309397,
+    creationBlock: 498379,
   },
   // sonic testnet
   [64165]: {
