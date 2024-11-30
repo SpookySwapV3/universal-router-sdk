@@ -122,10 +122,10 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
     weth: '0x7507c1dc16935B82698e4C63f2746A2fCf994dF8',
     creationBlock: 2189565,
   },
-  [48815]: {
-    router: '0x88aD42DB2CA24273a0F24084F04C8c33e7f7cca7',
-    weth: '0xc9cB60b2635A1e2518B37Cb632C973e54C5AB3fF',
-    creationBlock: 498379,
+  [48816]: {
+    router: '0x92d2fdC4Bd2899F60155633345d74ce6944945Cd',
+    weth: '0xEE4bC42157cf65291Ba2FE839AE127e3Cc76f741',
+    creationBlock: 410291,
   },
   // sonic testnet
   [64165]: {
