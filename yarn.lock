@@ -2203,10 +2203,10 @@
     "@uniswap/v2-sdk" "^3.2.0"
     "@uniswap/v3-sdk" "^3.10.0"
 
-"@uniswap/sdk-core@^4", "@uniswap/sdk-core@^4.0.7", "@uniswap/sdk-core@npm:@spookyswaptestnet/sdk-core@1.0.29-sonic002", "@uniswap/sdk-core@npm:@spookyswaptestnet/sdk-core@^1.0.29-sonic002":
-  version "1.0.29-sonic002"
-  resolved "https://registry.yarnpkg.com/@spookyswaptestnet/sdk-core/-/sdk-core-1.0.29-sonic002.tgz#1c0df7a4dca586dc7e9e82d638a2d556a482a1d1"
-  integrity sha512-mawTDU5GgxnvQG1Oy3qDAbLEYPTH3aCsQv0UWZbxkL+H0GerlH9IRzxZV3M7O34fJnWCGtYxbSh0aRC0pYCD8g==
+"@uniswap/sdk-core@^4", "@uniswap/sdk-core@^4.0.7", "@uniswap/sdk-core@npm:@spookyswaptestnet/sdk-core@1.0.29-goat-mainnet-000", "@uniswap/sdk-core@npm:@spookyswaptestnet/sdk-core@^1.0.29-goat-mainnet-000":
+  version "1.0.29-goat-mainnet-000"
+  resolved "https://registry.yarnpkg.com/@spookyswaptestnet/sdk-core/-/sdk-core-1.0.29-goat-mainnet-000.tgz#d5eae051b983a597c2eb5bea9aec3446df1cb934"
+  integrity sha512-pNyTWkqyale72H9AFTZx8/dW+EP4GUWUgti5zJh/vOy0rFW7oxUmZg+X4OClyBq65YwXaQkwARG4MeeKMyX3GA==
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
