@@ -135,9 +135,9 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
   },
   // sonic mainnet
   [146]: {
-    router: '0x8762fc1fD03807fDdef245F092F6E4d3f93aCd97',
+    router: '0x55d10e597275d5e572cd0ECF85a0C944964eBEf8',
     weth: '0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38',
-    creationBlock: 286731,
+    creationBlock: 5121939,
   },
   [2345]: {
     router: '0x1645Ff619DA18d4Ac561aA2894Ed45db47a46342',
