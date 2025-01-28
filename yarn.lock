@@ -2192,7 +2192,7 @@
     ethers "^5.3.1"
     tiny-invariant "^1.3.1"
 
-"@uniswap/router-sdk@^1.6.0":
+"@uniswap/router-sdk@1.6.0":
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/@uniswap/router-sdk/-/router-sdk-1.6.0.tgz#2f51dbba1b01467244b59500ed0da8aa84323f8c"
   integrity sha512-onpAzcvEnrsm8tUtu49IrR9EP3n9j0IDpGc0Ee3FDDkVgXrp9cIrAADC+yb56vgLtJFnshbhyIdjXLMIzWe0Gw==
@@ -2203,10 +2203,10 @@
     "@uniswap/v2-sdk" "^3.2.0"
     "@uniswap/v3-sdk" "^3.10.0"
 
-"@uniswap/sdk-core@^4", "@uniswap/sdk-core@^4.0.7", "@uniswap/sdk-core@npm:@spookyswaptest/sdk-core@1.0.20", "@uniswap/sdk-core@npm:@spookyswaptest/sdk-core@^1.0.20":
-  version "1.0.20"
-  resolved "https://registry.yarnpkg.com/@spookyswaptest/sdk-core/-/sdk-core-1.0.20.tgz#0dc575f8db4775379608cfb4bed139ad0ccd5b71"
-  integrity sha512-GkQSTphueXoBTrpmOqFXrFFIxKeF4Za1viQxQUfxghCmxxy/kb8EM2+rSY2Vnjx9Rn+D3Bc0GaSO05BceGjGuw==
+"@uniswap/sdk-core@^4", "@uniswap/sdk-core@^4.0.7", "@uniswap/sdk-core@npm:@spookyswaptest/sdk-core@1.0.26-sonic001", "@uniswap/sdk-core@npm:@spookyswaptest/sdk-core@^1.0.26-sonic001":
+  version "1.0.26-sonic001"
+  resolved "https://registry.yarnpkg.com/@spookyswaptest/sdk-core/-/sdk-core-1.0.26-sonic001.tgz#3a7d5ce31d324ff926b32bec833b04fb88a5ce37"
+  integrity sha512-X+qkbHvn1ixVpzhVWqN48Bl2TJEYBIVruW5yIhy3HU/QUKwKKb9dhT3QU5x77In+0WkAF5y/FrIUXjPTVw9/NQ==
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
