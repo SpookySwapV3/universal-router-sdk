@@ -2203,10 +2203,10 @@
     "@uniswap/v2-sdk" "^3.2.0"
     "@uniswap/v3-sdk" "^3.10.0"
 
-"@uniswap/sdk-core@^4", "@uniswap/sdk-core@^4.0.7", "@uniswap/sdk-core@npm:@spookyswaptestnet/sdk-core@1.0.40-main", "@uniswap/sdk-core@npm:@spookyswaptestnet/sdk-core@^1.0.40-main":
-  version "1.0.40-main"
-  resolved "https://registry.yarnpkg.com/@spookyswaptestnet/sdk-core/-/sdk-core-1.0.40-main.tgz#34ce86bc3d859b1b1ae5e81104d90ff8014954e2"
-  integrity sha512-XsK+vCZTChMnpE+PFbbL3cBlte7hNyogRQV3pFIQ4egN4fysVfvSn2tolJnZRScXReXcjUX61cqVy8Px6DHiig==
+"@uniswap/sdk-core@^4", "@uniswap/sdk-core@^4.0.7", "@uniswap/sdk-core@npm:@spookyswaptestnet/sdk-core@1.0.41-main", "@uniswap/sdk-core@npm:@spookyswaptestnet/sdk-core@^1.0.41-main":
+  version "1.0.41-main"
+  resolved "https://registry.yarnpkg.com/@spookyswaptestnet/sdk-core/-/sdk-core-1.0.41-main.tgz#bfd77418d1c24b79643fabfcd8452e59225cec67"
+  integrity sha512-5oBjVxbso8P0B5TmX2CPP9pfegJSDrVIUC8g7qbwb2WZXtcnqoyXn66FRWHbsg173r1A+jXCciiV3Peus0mRmg==
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
